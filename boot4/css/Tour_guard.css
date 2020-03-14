@@ -1,0 +1,44 @@
+body {padding-top: 200px;
+      font-weight: bold;
+      background-image: url("../../images/Coconut_Beach.jpg");
+}
+nav{
+  background-image: url("../../images/awhum_waterfalls.jpg");
+}
+.marketing .col-lg-4 p {
+
+}
+.navbar a{
+  color: green;
+  font-weight: 1200px;
+}
+a {
+  visited:grey;
+}
+.jumbotron{
+  text-align: center;
+}
+ .dropdown-item{
+   color:green;
+ }
+.foot {   background-color: #dee2e687;
+       padding: 30px 130px 5px 150px;
+       margin: 5 0 2 0;
+       border: 1px solid;
+       }
+ .box {
+   border: 2px solid;
+   border-color: lime;
+   padding:4px;
+ }
+.abt {color: white;}
+.md_4_head2{
+  color: ;
+  font-weight: ;
+    background-color: #dee2e687;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #6c757d;
+}
