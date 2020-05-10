@@ -7,7 +7,7 @@ body {
   padding-bottom: 3rem;
   color: orange;
   font-weight: 800px;
-  background-image: url("../../images/ng/ibech.jpg");
+  background-color: dodgerblue;
 }
 .foot{
   color: black;
@@ -114,11 +114,11 @@ color: yellow;}
 @media (prefers-reduced-motion) {
    .carousel {no-preference; } }
 #boo{
-  background-image: url("../.images/Nok.jpg");
+  background-image: url("../Nok.jpg");
 }
 #foryou{
-  background-image: url("../../Tour_Guide/images/.jpg");
+  background-image: url("../../images/.jpg");
 }
 #news{
-  background-image: url("../../Tour_Guide/images/.jpg");
+  background-image: url("../../images/.jpg");
 }
