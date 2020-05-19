@@ -83,7 +83,8 @@ color: yellow;}
   letter-spacing: -.05rem;
 }
 .marketing p {
-  background-color: white;
+  font-size: 25px;
+    font-weight: 600;
 }
 .marketing .featurette h2 {
   font-weight: 400;

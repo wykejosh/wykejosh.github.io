@@ -89,7 +89,8 @@ background-color: #f5f5f5c7;}
   background-color: #6c757d;
 }
 .marketing p {
-  background-color: white;
+  font-size: 25px;
+    font-weight: 600;
 }
 /* RESPONSIVE CSS
 -------------------------------------------------- */
